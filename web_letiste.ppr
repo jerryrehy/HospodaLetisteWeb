@@ -1,0 +1,53 @@
+[Config]
+Compilator.SaveAll=0
+Compilator.Capture=0
+Compilator.HideOutput=0
+Compilator.LogType=0
+DefaultCPIndex=0
+LogtoEnd=1
+DontOpen=0
+AbsolutePath=0
+FileFormat=0
+ProjectFilesOnly=0
+[Project tree]
+web_letiste
+	+hospoda_letiste
+		index.php
+		odhlasit.php
+		overeni.php
+		script.js
+		style.css
+		uploader.php
+		insert.php
+[Open project files]
+0=index.php
+1=odhlasit.php
+2=overeni.php
+3=script.js
+4=uploader.php
+5=insert.php
+6=style.css
+[Selected Project Files]
+Main=index.php
+Selected=index.php
+[index.php]
+TopLine=157
+Caret=154,171
+[odhlasit.php]
+TopLine=1
+Caret=44,4
+[overeni.php]
+TopLine=1
+Caret=30,8
+[script.js]
+TopLine=1
+Caret=69,3
+[uploader.php]
+TopLine=1
+Caret=65,6
+[insert.php]
+TopLine=1
+Caret=75,2
+[style.css]
+TopLine=225
+Caret=22,258
